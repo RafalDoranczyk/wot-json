@@ -1,4 +1,6 @@
 {
-  "EN": ["MESSAGE LOREM JSON IN ENGLISH", "SECOND MESSAGE IN ENGLISH"],
-  "PL": ["Message from poland here", "second message from poland json"]
+  "messages": {
+    "EN": ["MESSAGE LOREM JSON IN ENGLISH", "SECOND MESSAGE IN ENGLISH"],
+    "PL": ["Message from poland here", "second message from poland json"]
+  }
 }
